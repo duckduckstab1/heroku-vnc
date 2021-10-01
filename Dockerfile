@@ -15,6 +15,7 @@ RUN set -ex; \
         sudo \
 	    firefox \
         bash \
+	    chromium-browser \
         net-tools \
         novnc \
         socat \
